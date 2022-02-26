@@ -81,3 +81,5 @@ github.com/phpc0de/ctlibgo v0.0.0-20220226080145-1979ae755d84 h1:0DsTcsU7GklYUET
 github.com/phpc0de/ctlibgo v0.0.0-20220226080145-1979ae755d84/go.mod h1:SMJk0nFOtXgdTvuVb+PIvkQmrkg+blSTArexQIZbmh4=
 github.com/phpc0de/ctapi v0.0.8 h1:Gzk1azpqGvcYiEn4D9gE5wTsXX4lqNsKNruyKJSUpT0=
 github.com/phpc0de/ctapi v0.0.8/go.mod h1:qQJuIvlNfK83/RVD/sRmAWYZzZ0uLJLioi9Sp4P68ow=
+github.com/phpc0de/ctlibgo v0.0.5 h1:tvINhoZE+MDe3EdiYwMsCalTmXk4DtjSKrnuiHF6eX4=
+github.com/phpc0de/ctlibgo v0.0.5/go.mod h1:SMJk0nFOtXgdTvuVb+PIvkQmrkg+blSTArexQIZbmh4=
