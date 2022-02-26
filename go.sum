@@ -77,3 +77,7 @@ gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c h1:dUUwHk2QECo/6vqA44rthZ8ie
 gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 github.com/phpc0de/bolt v1.3.4 h1:JYgMbDEQdJfMdKlYpisXWB6Q+s+dtMPvI9BKbJR+abA=
 github.com/phpc0de/bolt v1.3.4/go.mod h1:wKXo9p8gZ+bs0ASd95/cNIwBRrhEmrW2gJvVw1v3+pI=
+github.com/phpc0de/ctlibgo v0.0.0-20220226080145-1979ae755d84 h1:0DsTcsU7GklYUETqiLooWg0jdcy2ZpSlCfRlF5038jo=
+github.com/phpc0de/ctlibgo v0.0.0-20220226080145-1979ae755d84/go.mod h1:SMJk0nFOtXgdTvuVb+PIvkQmrkg+blSTArexQIZbmh4=
+github.com/phpc0de/ctapi v0.0.8 h1:Gzk1azpqGvcYiEn4D9gE5wTsXX4lqNsKNruyKJSUpT0=
+github.com/phpc0de/ctapi v0.0.8/go.mod h1:qQJuIvlNfK83/RVD/sRmAWYZzZ0uLJLioi9Sp4P68ow=
