@@ -12,7 +12,7 @@ require (
 	github.com/peterh/liner v1.1.1-0.20190305032635-6f820f8f90ce
 	github.com/phpc0de/bolt v1.3.4
 	github.com/phpc0de/ctapi v0.0.8
-	github.com/phpc0de/ctlibgo v0.0.5
+	github.com/phpc0de/ctlibgo v0.0.0-20220226080145-1979ae755d84
 	github.com/urfave/cli v1.21.1-0.20190817182405-23c83030263f
 	golang.org/x/sys v0.0.0-20200202164722-d101bd2416d5 // indirect
 )
